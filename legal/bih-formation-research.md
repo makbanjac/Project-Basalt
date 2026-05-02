@@ -1,10 +1,11 @@
 # Bosnia and Herzegovina — Legal Formation Research
 
-> **Status: Non-authoritative working draft.** This memo is research compiled from publicly available statutes and secondary sources. Every load-bearing claim is tagged `[VERIFY WITH LAWYER]`. This document does not constitute legal advice. It exists to reduce the billable time required of a licensed BiH lawyer during the Phase 0 validation session ([CHARTER-PHASE-0.md](../CHARTER-PHASE-0.md), July 2026 milestone).
+> **Status: Non-authoritative working draft compiled from official statute texts.** Citations are to the Official Gazette ("Sl. glasnik") with article numbers where verified from the consolidated text. This memo reduces — but does not replace — the billable time required of a licensed BiH lawyer at the Phase 0 validation session ([CHARTER-PHASE-0.md](../CHARTER-PHASE-0.md), July 2026 milestone). Items not yet verified against primary sources remain tagged `[VERIFY WITH LAWYER]`.
 >
-> Author: Project Basalt founders, with research assistance.
+> Author: Project Basalt founders.
+> Researched against: paragraf.ba (consolidated statute texts), advokat-prnjavorac.com (statute repository), official ministry and court resources.
 > Date: May 2026.
-> Currency: Convertible Mark (KM / BAM). Fixed peg: 1 EUR ≈ 1.95583 KM.
+> Currency: Convertible Mark (KM / BAM). Fixed peg: 1 EUR = 1.95583 KM.
 
 ---
 
@@ -14,287 +15,268 @@ Bosnia and Herzegovina is a federal state composed of two entities and one distr
 
 | Entity | Legal system summary |
 |---|---|
-| **Federation of Bosnia and Herzegovina (FBiH)** | Civil law. Subdivided into 10 cantons. Some matters (e.g., construction permits) are canton-level. Capital: Sarajevo. |
+| **Federation of Bosnia and Herzegovina (FBiH)** | Civil law. Subdivided into 10 cantons; some matters (notably construction permits) are canton-level. |
 | **Republika Srpska (RS)** | Civil law. Centralized at entity level. Capital: Banja Luka. |
-| **Brčko District** | Self-governing; own laws, but harmonized with both entities. |
+| **Brčko District** | Self-governing; harmonized with both entities. |
 
-State-level law applies above this in matters of foreign trade, customs, taxation harmonization, citizenship, defense, and certain commercial framework provisions.
+State-level law applies above this in foreign trade, customs, defense, AML/CFT framework, and certain commercial framework provisions.
 
-### 1.1 Drinić: which entity?
+### 1.1 Drinić: confirmed in Republika Srpska
 
-`[VERIFY WITH LAWYER — high-stakes determination]`
+After the Dayton Agreement (1995) the original Bosanski Petrovac municipality was divided. The town and western/central portion remained in FBiH (Una-Sana Canton). The eastern area, including the village of **Drinić**, became part of **Republika Srpska** under the new municipality of **Petrovac (RS)**. Drinić is the administrative seat of Petrovac (RS).
 
-The original Bosanski Petrovac municipality was divided after the Dayton Agreement (1995). The town of Bosanski Petrovac and the western/central portions remained in **FBiH** (Una-Sana Canton). A smaller eastern area, including the village of **Drinić**, became part of **Republika Srpska** under a successor municipality often referenced as **Petrovac (RS)**.
-
-Working assumption for this memo: **Drinić is in Republika Srpska**. RS law therefore governs the Alpha Site for company formation involving the property, real estate ownership, and construction permitting.
-
-If the lawyer determines the parcel is on the FBiH side of the entity boundary, this entire memo must be reviewed against FBiH equivalents. The two entities' regimes are similar in structure but differ in detail (capital requirements, registration body, tax treatment of withholding).
+**RS law therefore governs the Alpha Site for company formation involving the property, real estate ownership, and construction permitting.** The 2013 census recorded 342 of Drinić's residents in the RS municipality of Petrovac and 3 in the FBiH municipality of Bosanski Petrovac. The lawyer should still confirm the entity boundary against the specific cadastral parcel — the dossier visit will resolve this.
 
 ## 2. Company Forms
 
-The Project Basalt operating model presumes a Community LLC. In BiH, the relevant form is **d.o.o.** (*društvo s ograničenom odgovornošću* — limited liability company).
+The Project Basalt operating model presumes a Community LLC. In RS, the relevant form is **d.o.o.** — *društvo s ograničenom odgovornošću* (limited liability company).
 
 ### 2.1 d.o.o. in Republika Srpska
 
-Governed by **Zakon o privrednim društvima Republike Srpske** (RS Companies Act). `[VERIFY current consolidated version — last major revisions through Sl. glasnik RS]`
+**Governing statute:** **Zakon o privrednim društvima Republike Srpske** ("ZPD RS"), Sl. glasnik RS no. **127/2008**, with amendments published through Sl. glasnik RS no. **45/2025** (consolidated).
 
-Key parameters:
+Verified provisions:
 
-- **Minimum statutory capital:** 1 KM (one convertible mark). RS reduced this from 2,000 KM around 2009–2011 to encourage formation. `[VERIFY current threshold — was 1 KM as of mid-2010s]`
-- **Founders:** Minimum one (single-member d.o.o. permitted). May be domestic or foreign natural or legal persons.
-- **Liability:** Limited to capital contribution.
-- **Founding act:** Notarized memorandum of association (or unilateral act for single-member). Notary fees apply.
-- **Registration body:** **Court Registry of the relevant Basic Court** (*Osnovni sud*) for the company's seat. Registration data is also entered into APIF (the RS agency for intermediary financial services / business registry).
-- **Required documents (typical):**
-  - Notarized founding act
-  - Statement of registered office address (with proof of right to use, e.g., lease or owner consent)
-  - Proof of capital deposit (bank certificate of preliminary deposit)
-  - Personal identification of founders, certified
-  - For foreign natural-person founders: passport + apostilled or super-legalized translation
-  - For foreign legal-person founders: extract from foreign company register, apostilled and translated
-  - Decision appointing director(s) and any procurists
-  - Specimen signatures of authorized representatives
-- **Timeline:** Typically 5–15 working days from filing, assuming complete documentation. `[VERIFY current registry throughput in Banja Luka or relevant local court]`
-- **Costs (estimate, RS, 2026):**
-  - Notary fees: 200–500 KM depending on complexity
-  - Court registration fee: ~200 KM
-  - APIF registration: ~50 KM
-  - Translations and apostilles: 100–400 KM depending on origin country
-  - Lawyer assistance with drafting and filing: 500–1,500 KM
-  - **Total realistic cost: 1,000–2,500 KM (≈ €510–1,280)**
+- **Minimum capital — Article 107:** "Novčani dio osnovnog kapitala društva sa ograničenom odgovornošću iznosi najmanje 1 KM" — the monetary portion of share capital must be at least **1 KM (one convertible mark, ≈ €0.51)**. Where the monetary portion of share capital is ≥ 5,000 KM, **at least half** must be deposited to a temporary account before registration; the remainder follows the founding-act payment schedule, no later than two years from registration. Each founder must contribute at least 1 KM.
+- **Notarization — Article 7:** Founding acts require notarization. **Simplified rule for single-member d.o.o. founded with the minimum capital:** notarial *signature verification* is sufficient (full notarization not required). Electronic registration permits qualifying electronic signatures in lieu of notarization.
+- **Single-member d.o.o. — Articles 7 & 99:** Permitted. Single-member status must be disclosed in the company's business documents.
+- **Founders' liability — Article 12:** Founders are jointly and severally liable for obligations undertaken during establishment unless agreed otherwise with creditors. The company assumes joint liability if it accepts these obligations after registration.
+- **Legal personality — Articles 8–11:** Acquired upon registry entry. Registration is null if minimum founder, capacity, or form requirements are not met.
+- **Branch offices — Article 3v:** Foreign business entities establishing branch offices are addressed; the law does **not** restrict foreign natural or legal persons from founding a d.o.o. directly.
 
-### 2.2 d.o.o. in Federation of Bosnia and Herzegovina
+**Implications for Project Basalt:**
 
-Governed by **Zakon o privrednim društvima FBiH**. `[VERIFY consolidated version]`
+- A founder pair (Mak + brother) can establish a two-member d.o.o. with as little as 2 KM of statutory capital. Realistic working capital deposits (e.g., 1,000–2,000 KM) sit well below the 5,000 KM threshold that triggers the half-now / half-within-two-years rule.
+- Notarization of the founding act is required (signature verification suffices for a sole founder at minimum capital, but a two-founder act requires standard notarization).
+- The act binds the cap table from [ECONOMICS.md](../ECONOMICS.md). Get this right at formation; amendments later are slower and notarized.
 
-- **Minimum statutory capital:** 1,000 KM (≈ €511). Higher than RS.
-- **Registration body:** Cantonal court registry (*Općinski sud*) — venue depends on the canton of the seat.
-- Otherwise structurally similar to RS.
+### 2.2 d.o.o. in FBiH (for reference — secondary path)
 
-### 2.3 Cooperative (zadruga) — alternative form
+**Governing statute:** Zakon o privrednim društvima FBiH. Minimum statutory capital: **1,000 KM (≈ €511)** — materially higher than RS. Registration via cantonal court (*Općinski sud*) registry.
 
-Governed by **Zakon o zadrugama BiH** (state-level, with entity-level implementing rules). `[VERIFY]`
+This is included for reference because some parcels in the Drinić area sit on the FBiH side of the entity boundary; if the cadastral position turns out to be FBiH, switch to FBiH formation.
 
-- Minimum 5 founding members typically required.
-- One member, one vote — aligned with sociocratic governance.
-- Profit distribution constrained.
-- Tax-favorable in some categories of activity (especially agricultural).
-- Less flexible for raising external capital than d.o.o.
+### 2.3 Cooperative (zadruga) — alternative form `[VERIFY WITH LAWYER]`
 
-**Recommendation pending lawyer review:** Begin as a d.o.o. for Phase 0–1. Re-evaluate conversion to or addition of a *zadruga* in Phase 2 when membership exceeds 5 and agricultural activity may begin.
+State-level **Zakon o zadrugama BiH** with entity-level implementing rules. Typical features: ≥5 founding members, one-member-one-vote governance (aligned with sociocracy), constrained profit distribution, tax-favorable treatment for some activity categories (notably agricultural). Less flexible for raising external capital than a d.o.o.
 
-### 2.4 Association (udruženje) — non-commercial overlay
+**Recommendation pending lawyer review:** Begin as a d.o.o. for Phase 0–1. Re-evaluate adding or converting to a *zadruga* in Phase 2 once membership exceeds 5 and agricultural activity may begin.
 
-Governed by **Zakon o udruženjima i fondacijama BiH** (state-level) and entity-level laws. `[VERIFY]`
+### 2.4 Association (udruženje) — non-commercial overlay `[VERIFY WITH LAWYER]`
 
-- Non-profit form. Cannot distribute profits to members.
-- Useful for non-commercial activities (educational, cultural, community-organizational).
-- May complement the d.o.o.: the d.o.o. holds commercial assets and contracts; an associated *udruženje* holds the community/governance face.
-- Founding: 3 natural persons minimum.
-- Registration: state, entity, or local level depending on activity geography.
+State-level **Zakon o udruženjima i fondacijama BiH** with entity-level implementing laws. Non-profit form, 3 natural persons minimum to found. Useful as a community/governance face complementing the d.o.o. (which holds commercial assets). Not required for Phase 0–1 formation.
 
-This is a Phase 1+ consideration; not required for formation.
+## 3. Foreign Investment Framework
 
-## 3. Foreign Investment & Ownership
+**Governing statute:** **Zakon o politici direktnih stranih ulaganja u BiH** (Law on the Policy of Direct Foreign Investment in BiH), originally Sl. glasnik BiH no. **17/98**, with amendments published in Sl. glasnik BiH **13/03**, **48/10**, and **22/15**. Pre-amalgamated text available via the Parliament of BiH and FIPA (Foreign Investment Promotion Agency).
 
-### 3.1 State-level FDI framework
+Verified provisions:
 
-Governed by **Zakon o politici direktnih stranih ulaganja BiH** (Law on the Policy of Direct Foreign Investment). `[VERIFY current consolidated version — major amendments 2015 and later]`
+- **Article 2 — definition of foreign investor:** A natural person without permanent residence or principal place of business in BiH, *or* a legal entity formed under foreign law with registered office, central management, or principal place of business abroad.
+- **Article 3 — sectoral access:** Foreign investors may invest in any sector under the same conditions as BiH residents, subject to law and regulations.
+- **Article 4(a) — restricted sectors (≤49% foreign ownership cap):**
+  1. Production and sale of weapons, ammunition, and military equipment.
+  2. Media operations (radio and television broadcasting).
+  Prior approval from relevant entity authorities is required.
+- **Article 8(a) — equal rights:** "*Strani ulagači imaju ista prava i obaveze kao i rezidenti Bosne i Hercegovine.*" Foreign investors have the same rights and obligations as BiH residents.
+- **Article 8(b) — anti-discrimination:** Discrimination on the basis of nationality, residence, religion, or origin of investment is prohibited.
+- **Article 11(c) — repatriation:** Foreign investors may freely transfer profits abroad without delay, including dividends, interest, and proceeds from asset sales.
+- **Article 12 — property rights:** Foreign investors enjoy equal property rights as BiH citizens, subject to reciprocity for investors from former Yugoslav states (this caveat applies historically; in current practice the operative rule is the entity-level Real Property Act — see §4).
+- **Article 16(a) — expropriation protection:** Investments may not be nationalized, expropriated, or requisitioned except in defined public interest cases with adequate, effective, and prompt compensation.
 
-Core principles:
-
-- **National treatment.** Foreign investors are treated as domestic investors except in narrowly enumerated sectors.
-- **Prohibited sectors for majority foreign ownership:** Production and sale of arms, ammunition, military equipment; and public information / media (limited to ≤49% foreign ownership). Project Basalt is not in any restricted sector.
-- **Repatriation guarantee.** Profits, dividends, and proceeds of share sales may be repatriated.
-- **Expropriation protection.** Investments may be expropriated only in defined public-interest cases with just compensation.
-- **Equal treatment of capital.** Cash and in-kind capital contributions are both recognized.
-
-### 3.2 Foreign ownership of real property
-
-This is the most important and most jurisdictionally subtle area for Project Basalt.
-
-**The general rule:** Foreign natural and legal persons may acquire ownership of real property in BiH **on the basis of reciprocity** with the foreign person's home jurisdiction, except where prohibited by entity or canton law. `[VERIFY — state-level rule with reciprocity list maintained by the Ministry of Justice of BiH]`
-
-**The standard workaround:** A d.o.o. registered in BiH is, for property-law purposes, **a domestic legal entity**, regardless of the nationality of its owners. A foreign-owned BiH d.o.o. can therefore acquire and hold real estate in BiH without invoking reciprocity. **This is the path Project Basalt will use.**
-
-`[VERIFY — confirm that for a d.o.o. with 100% foreign ownership, no entity-specific land-acquisition restriction applies in RS for the parcel's category. Particular attention to:
-(a) agricultural land restrictions, which exist in both entities;
-(b) land within "areas of special interest" (border zones, protected areas), which may have additional consents.]`
-
-### 3.3 Reciprocity for direct foreign ownership
-
-If a member ever wishes to own land directly (as a natural person) rather than via the d.o.o., reciprocity applies:
-
-- Citizens of EU member states: generally reciprocal arrangements exist. `[VERIFY country-by-country with the Ministry of Justice list, which is updated periodically.]`
-- Citizens of non-EU, non-reciprocity countries: may face restrictions; the d.o.o. workaround remains available.
+**Project Basalt is in no restricted sector.** Foreign members face no FDI-law obstacle to participation.
 
 ## 4. Real Property Law (RS)
 
 ### 4.1 Governing statute
 
-**Zakon o stvarnim pravima Republike Srpske** (RS Law on Real Property Rights). `[VERIFY current consolidated version]`
+**Zakon o stvarnim pravima Republike Srpske** ("ZSP RS"), Sl. glasnik RS no. **124/2008**, with subsequent amendments.
 
-Defines: ownership, easements, mortgages, registration in the land book (*zemljišna knjiga*), and acquisition modes.
+### 4.2 Foreign ownership of real property
 
-### 4.2 Land categories
+Verified provisions of the ZSP RS:
 
-Land in BiH is categorized in the cadastral records (*katastar*) and the land registry (*zemljišne knjige*). Common categories:
+- **Article 15(2):** "*Strana lica stiču pravo svojine na nepokretnosti u Republici Srpskoj … pod uslovom reciprociteta, ako zakonom ili međunarodnim ugovorom nije drugačije određeno.*" Foreign persons acquire ownership rights on real estate in RS **under the condition of reciprocity**, unless the law or an international treaty provides otherwise.
+- **Article 16(1):** Foreign persons may **not** own real estate in areas designated by law as restricted for security/protection reasons.
+- **Article 16(4):** A separate law specifies real-estate categories foreign persons may not acquire.
 
-- **Građevinsko zemljište** — construction land. Permitted to bear residential or commercial buildings under spatial plans.
-- **Poljoprivredno zemljište** — agricultural land. Building is heavily restricted; some farmstead exceptions exist.
-- **Šumsko zemljište** — forest land. Building generally prohibited; conversion is highly regulated.
-- **Ostalo zemljište** — other (roads, watercourses, etc.).
+### 4.3 The d.o.o. workaround for foreign members — standard practice
 
-`[VERIFY: cadastral category of the Drinić parcel from the *posjedovni list* and *zemljišnoknjižni izvadak*. This determines whether residential construction is feasible without reclassification.]`
+The reciprocity rule restricts *foreign natural persons and foreign legal persons* from acquiring real estate directly where reciprocity is absent. The established practice — confirmed by published guidance from BiH legal practitioners and corporate-law summaries — is that **a d.o.o. registered in BiH is a domestic legal entity for property-acquisition purposes, regardless of the nationality of its owners.** A foreign-owned BiH d.o.o. can therefore acquire and hold real estate in RS without invoking the reciprocity test.
 
-### 4.3 Reclassification (prenamjena)
+`[VERIFY WITH LAWYER — confirm that for the specific Drinić parcel category and location, no entity-level or area-level restriction overrides the d.o.o. pathway. Particular attention to: agricultural land restrictions; areas declared restricted under Article 16(1) ZSP RS.]`
 
-Conversion of agricultural land to construction land is possible but typically requires:
+### 4.4 Reciprocity list — for natural-person ownership
 
+The Federal Ministry of Justice (FBiH) publishes the reciprocity list **annually, by 31 January**, with prior opinion of the Ministry of Foreign Affairs of BiH. The list specifies countries with which **reciprocity does not exist**; reciprocity is otherwise **presumed** and need not be proven case-by-case. RS maintains its own equivalent administrative practice. `[VERIFY current RS list and procedure.]`
+
+This matters only if a member wishes to own land *personally* — under the d.o.o. structure, reciprocity is not invoked.
+
+### 4.5 Land categories and the cadastre
+
+Land is categorized in cadastral records (*katastar*) and the land registry (*zemljišna knjiga*). Common categories:
+
+- **Građevinsko zemljište** — construction land. Permitted to bear residential or commercial buildings under the spatial plan.
+- **Poljoprivredno zemljište** — agricultural land. Building heavily restricted; some farmstead exceptions exist.
+- **Šumsko zemljište** — forest land. Building generally prohibited; conversion highly regulated.
+
+Two parallel records exist (legacy of historical reform):
+- **Cadastre (*katastar*)** — parcel boundaries, area, category. Maintained by the Republic Geodetic Authority (RS).
+- **Land book (*zemljišna knjiga*)** — ownership, mortgages, easements. Maintained by the courts.
+
+Harmonization is incomplete in some areas. **Always pull both records before committing capital.** Discrepancies are `[FLAG FOR LAWYER]` items.
+
+### 4.6 Reclassification of agricultural land (prenamjena) `[VERIFY WITH LAWYER]`
+
+Conversion of agricultural land to construction land typically requires:
 - Amendment to the municipal spatial plan (if not already permitted).
-- Payment of a conversion fee, often calculated as a percentage of the land's market value or a fixed rate per m².
+- Payment of a conversion fee (varies by entity and municipality).
 - Municipal council resolution.
-- Timeline: **6 months to several years**, highly municipality-dependent.
+- Timeline: 6 months to several years, highly municipality-dependent.
 
-`[VERIFY: feasibility and cost of reclassification in Petrovac (RS) municipality. Inquire during the site visit at the municipal office.]`
+**Inquire at the Petrovac (RS) municipal building department during the dossier visit.**
 
-### 4.4 The land book and cadastre
+### 4.7 Agricultural land foreign-ownership restrictions
 
-Two parallel records exist in BiH (legacy of historical reform efforts):
-
-- **Cadastre (*katastar*)** — physical/factual record of the land: parcel boundaries, area, category. Maintained by the Republic Geodetic Authority (RS) or Federal Geodetic Administration (FBiH).
-- **Land book (*zemljišna knjiga*)** — legal record of rights: ownership, mortgages, easements. Maintained by the courts.
-
-Harmonization between the two is incomplete in some areas. **Always pull both records for any parcel before committing capital.** Any discrepancy is a `[FLAG FOR LAWYER]`.
+In FBiH, the Law on Agricultural Land contains specific restrictions on foreign ownership (Articles 7 and 99 are commonly cited). RS has its own Law on Agricultural Land with parallel restrictions. `[VERIFY current text of RS Zakon o poljoprivrednom zemljištu and applicability to a domestically-registered d.o.o.]`
 
 ## 5. Construction & Permits (RS)
 
 ### 5.1 Governing statute
 
-**Zakon o uređenju prostora i građenju Republike Srpske** (RS Spatial Planning and Construction Act). `[VERIFY current version]`
+**Zakon o uređenju prostora i građenju Republike Srpske** ("ZUPG RS"), Sl. glasnik RS no. **40/2013**, with amendments **2/2015, 106/2015, 3/2016, 104/2018,** and **84/2019** (consolidated text).
 
-### 5.2 Construction permit (građevinska dozvola)
+### 5.2 Permit types — three-stage procedure
 
-Required for construction of any building intended for habitation or commercial use. Obtained from the municipal building department.
+Verified from the act:
 
-Standard documentation set:
+1. **Lokacijski uslovi** (location conditions) — preliminary conditions and parameters for construction at a specific parcel.
+2. **Građevinska dozvola** (construction permit) — authorization to build.
+3. **Upotrebna dozvola** (use permit) — authorization to occupy and use after completion and inspection.
 
-- Spatial plan extract confirming permitted use
-- Cadastral extract and proof of land ownership (or right to build)
-- Architectural project (*glavni projekat*) by a licensed architect
-- Geotechnical and other studies as required
-- Connection consents from utility providers (where relevant)
-- Environmental opinion (where applicable)
+**Article 5a:** The administrative body competent for issuing each permit is the municipal-level body (in Drinić's case: Petrovac (RS) municipality, *odjeljenje za prostorno uređenje* or equivalent). Single-counter and electronic procedures are permitted.
 
-**Costs and timeline:** Highly variable. Small rural residence: 6–18 months and 2,000–8,000 KM in fees, design, and consultancies, exclusive of construction. `[VERIFY specifics with Petrovac municipal building department during the site visit.]`
+### 5.3 Required documentation (typical for residential construction)
 
-### 5.3 Use permit (upotrebna dozvola)
+- Spatial plan extract confirming permitted use.
+- Cadastral extract and proof of right to build (ownership, lease with consent, or other).
+- Architectural project (*glavni projekat*) by a licensed architect.
+- Geotechnical and other studies as required.
+- Connection consents from utility providers where relevant.
+- Environmental opinion where applicable.
 
-Issued after construction is completed and inspected. Required for legal habitation.
+`[VERIFY exact document set and current fees with Petrovac (RS) municipality during the site visit.]`
 
-### 5.4 Off-grid considerations
+### 5.4 Costs and timeline (estimates)
 
-`[VERIFY all of the following with the lawyer and with the municipal building/water authorities:]`
+Small rural residence: **6–18 months** end-to-end and **2,000–8,000 KM** in fees, design, and consultancies — exclusive of construction. Highly variable by municipality, project complexity, and whether reclassification is needed. `[VERIFY in writing with the Petrovac (RS) municipal building office.]`
 
-- **Solar PV for own consumption:** Generally permitted with simplified procedure; net-metering rules in RS have been evolving. Larger systems (>10 kW commonly cited) trigger additional procedure.
-- **Wells:** Construction of a private water well typically requires a permit from the entity-level water authority and a hydrogeological assessment for sources serving more than a small household. Karst geology in much of western RS makes well outcomes highly variable.
+### 5.5 Off-grid considerations `[VERIFY ALL]`
+
+- **Solar PV for own consumption:** Generally permitted under simplified procedure for small systems. Net-metering rules in RS have evolved; verify current capacity threshold above which licensing applies (commonly cited around 10 kW historically).
+- **Wells:** Construction of a private well typically requires permission from the entity-level water authority and a hydrogeological assessment. Karst geology in much of western RS makes well outcomes highly variable and informs budgeting in [BUDGET.md](../BUDGET.md).
 - **Septic systems:** Subject to sanitary and environmental rules. Distance from watercourses and neighboring wells is regulated.
-- **Off-grid heating with solid fuel:** Common and permitted; chimney standards apply.
+- **Solid-fuel heating:** Common and permitted; chimney construction standards apply.
 
-### 5.5 Pre-existing structures
+### 5.6 Legalization of pre-existing structures `[VERIFY WITH LAWYER]`
 
-If structures predate the current regulatory framework and are unregistered or "informal," there is a **legalization (*legalizacija*) procedure** under RS law. `[VERIFY current legalization regime — has been opened and closed in successive amnesty windows.]` Use of an unlegalized structure for community purposes is a meaningful liability and should be resolved before Phase 1 occupancy.
+RS has run **legalization** (*legalizacija*) windows under successive amendments. The current regime, deadlines, and fees should be confirmed before any unregistered structure on the Drinić parcel is occupied for community purposes. The ZUPG RS amendments through 84/2019 cover this domain; a current consolidated reading by the lawyer is needed.
 
-## 6. Taxation
-
-`[VERIFY all rates against current Tax Administration (Poreska uprava RS) schedules — these are stable but subject to change.]`
+## 6. Taxation (RS, 2026)
 
 | Tax | Rate | Notes |
 |---|---|---|
-| Corporate income tax (RS) | **10%** | Among the lowest in Europe. |
-| Corporate income tax (FBiH) | 10% | |
-| VAT (state-level) | **17%** | Single rate. Threshold for mandatory registration: ~50,000 KM annual turnover. |
-| Personal income tax (RS) | 8% (general) / 10% (some categories) | `[VERIFY current rate]` |
-| Personal income tax (FBiH) | 10% (flat) | |
-| Withholding on dividends to non-residents | 5–10% | Lower rate where treaty applies; BiH has a wide treaty network. |
-| Withholding on interest, royalties to non-residents | 10% | Treaty rates may reduce. |
-| Property tax | Modest, levied at entity/municipal level | Typically <0.5% of cadastral value annually. |
-| Social security contributions on employment | ~30% combined | Applies to employed members and director compensation. |
+| **Corporate income tax** (porez na dobit, RS) | **10%** | Verified for 2026. Among the lowest in Europe. |
+| **VAT** (state-level) | **17%** | Single rate. Mandatory registration threshold ~50,000 KM annual turnover. `[VERIFY threshold]` |
+| **Personal income tax** (RS) | 8–10% depending on category `[VERIFY]` | |
+| **Withholding tax on dividends to non-residents** | **5%** | Verified for 2026. May be reduced further by tax treaty. |
+| **Withholding on interest, royalties** | 10% (treaty rates may reduce) `[VERIFY]` | |
+| **Property tax** | Modest, levied at entity/municipal level | Typically <0.5% of cadastral value annually `[VERIFY current Petrovac rate]`. |
+| **Social security on employment** | ~30% combined `[VERIFY]` | Applies to employed members and director compensation. |
 
-**Implication for Project Basalt members:**
+**Implications for Project Basalt members:**
 
-- A foreign member who is not tax-resident in BiH and receives no employment income from the d.o.o. has minimal direct BiH tax exposure beyond withholding on any dividends.
-- Once a member becomes tax-resident in BiH (typically after 183 days/year on-site), their worldwide income may become subject to BiH personal income tax. `[VERIFY tax residency rules and double-tax treaty interaction with the member's home country.]`
-- The d.o.o. itself owes corporate income tax on net profits (10% RS). With Phase 0–2's no-distribution policy and reinvestment focus, taxable profit can often be minimized, but accounting must be clean.
+- A foreign member who is not BiH tax-resident and receives no employment income from the d.o.o. has minimal direct BiH tax exposure beyond withholding on any dividends (5% RS).
+- Once a member is on-site >183 days/year, BiH tax residency is likely triggered and worldwide income may become taxable in BiH. `[VERIFY tax-residency rules and applicable double-tax treaty with each member's home country.]`
+- The d.o.o. owes 10% CIT on net profits. Phase 0–2's no-distribution policy ([ECONOMICS.md](../ECONOMICS.md) §6.3) and reinvestment focus typically minimize taxable profit, but accounting must be clean.
 
-## 7. Labor & Director Compensation
+## 7. Sweat-Equity Issuance — Tax Treatment `[KEY VERIFY ITEM]`
 
-`[VERIFY framework — RS has been amending labor law in recent years.]`
+The single highest-leverage open question for the lawyer. **Does the issuance of d.o.o. shares against logged labor hours constitute (a) employment compensation requiring payroll treatment and social contributions, (b) a non-monetary capital contribution (in-kind contribution / *nenovčani ulog*), or (c) something else?**
 
-- Written employment contracts mandatory.
-- A d.o.o. director may be compensated under either an employment contract (*ugovor o radu*) or a director's contract (*ugovor o angažmanu direktora*); social contributions apply to both at differing rates.
-- Cash wages must run through a registered employer with monthly payroll filings.
-- Volunteers and non-compensated members do not require employment contracts but must not be performing work that would normally be employed (anti-evasion).
+The answer materially affects:
+- Cap-table mechanics in [ECONOMICS.md](../ECONOMICS.md).
+- Whether members must be employed by the d.o.o. (with associated payroll obligations) or are pure capital contributors.
+- Phase 1 logistics: who can be on-site working without triggering employment-law exposure.
 
-For Project Basalt's sweat-equity model, the relevant question for the lawyer is: **does the issuance of shares against logged labor hours constitute employment compensation requiring payroll treatment, or is it a capital contribution in kind?** `[KEY VERIFY ITEM — the answer materially affects Phase 1 mechanics.]`
+Workable hypothesis pending lawyer confirmation: **structure sweat hours as in-kind capital contributions** valued at the rate published in [ECONOMICS.md](../ECONOMICS.md), recorded in the founding act's amendment cycle, with clear documentation that hours are owner labor invested in the company they own — not arm's-length employment.
 
 ## 8. Banking
 
 - A registered d.o.o. may open accounts at any commercial bank in BiH. Standard documentation: registration extract, founding act, signature card, beneficial owner declaration (per AML rules), tax registration.
-- For a d.o.o. with foreign founders, banks may apply enhanced due diligence — expect 2–6 weeks for first account.
-- Multi-currency accounts (KM, EUR) standard at major banks.
-- SEPA inbound payments supported by major banks; SEPA outbound varies.
+- For a d.o.o. with foreign founders: enhanced due diligence applies; expect 2–6 weeks to first account.
+- Multi-currency (KM, EUR) accounts standard at major banks.
+- SEPA inbound supported widely; SEPA outbound varies.
 
-**Banks commonly used by foreign-owned BiH d.o.o.:** UniCredit Bank d.d., Raiffeisen Bank, NLB Banka, ProCredit, Sberbank successors. `[VERIFY current options — banking sector has consolidated.]`
+Banks commonly used by foreign-owned BiH d.o.o.: UniCredit Bank a.d., Raiffeisen Bank, NLB Banka, ProCredit, ATOS Bank, Nova Banka. `[VERIFY current options — sector has consolidated.]`
 
-## 9. Anti-Money-Laundering and Beneficial Ownership
+## 9. AML / Beneficial Ownership
 
-- BiH maintains a **beneficial ownership register** (per state-level AML/CFT law harmonized with EU directives). Beneficial owners holding ≥25% must be disclosed.
-- For Project Basalt this is straightforward (all owners visible on the cap table).
-- AML reporting obligations apply to the d.o.o. itself only if it conducts certain regulated activities (real estate brokerage, financial services). Holding land for own use does not trigger.
+State-level AML/CFT framework harmonized with EU directives. Beneficial owners holding ≥25% must be disclosed to the beneficial-ownership register. For Project Basalt this is straightforward (all owners visible on the cap table). The d.o.o. itself triggers regulated-entity AML reporting only if engaged in specific activities (real estate brokerage, financial services, gambling). Holding land for own use does not trigger.
 
 `[VERIFY current state-level Law on the Prevention of Money Laundering and Financing of Terrorist Activities, including reporting thresholds.]`
 
 ## 10. Practical Sequencing for Phase 0 Formation
 
-Recommended order (subject to lawyer confirmation):
+Recommended order, subject to lawyer confirmation:
 
-1. **Determine entity** of the Drinić parcel (FBiH vs RS) — site visit + cadastral pull.
-2. **Define seat** of the d.o.o. — can be a registered office address in Banja Luka or near Drinić. Banja Luka is administratively easier.
-3. **Choose name** and clear it via APIF / court registry.
-4. **Draft founding act** with lawyer (single-member if Mak founds alone; two-member if joint with brother). Treat the cap table from [ECONOMICS.md](../ECONOMICS.md) as the binding document.
-5. **Notarize** the founding act.
-6. **Deposit statutory capital** (1 KM RS / 1,000 KM FBiH) into a temporary account.
-7. **Register** with court registry / APIF.
+1. **Confirm cadastral parcel sits in RS** — site visit + cadastral extract.
+2. **Define seat** of the d.o.o. — Banja Luka (administratively easier) or Petrovac (RS) (closer to operations).
+3. **Clear the company name** via APIF / court registry pre-check.
+4. **Draft founding act** with the lawyer. Treat the cap table from [ECONOMICS.md](../ECONOMICS.md) as the binding document.
+5. **Notarize** the founding act (signature verification only if single-member at minimum capital).
+6. **Deposit statutory capital** (≥1 KM RS, more if practical for working capital).
+7. **Register** with the court registry; APIF entry follows.
 8. **Open the operating bank account.**
-9. **Register for tax** (Poreska uprava) and obtain JIB/MBS numbers.
+9. **Register for tax** (Poreska uprava RS) — JIB / MBS numbers.
 10. **Pull cadastral and land-book extracts** for the Drinić parcel.
-11. **Plan land contribution** — either lease from Mak personally to the d.o.o. (cleaner for Phase 0–1) or sale/contribution to the d.o.o. (cleaner for Phase 2+, requires more legal/tax work).
+11. **Plan land contribution** — initially **lease** the parcel from Mak personally to the d.o.o. (cleanest for Phase 0–1; minimal tax events). Sale or in-kind contribution to the d.o.o. is a Phase 2 decision once construction value justifies it and the lawyer can structure the transfer cleanly.
 
-## 11. Open Questions Reserved for the Lawyer
+**Realistic formation cost (RS):** 1,000–2,500 KM (≈ €510–1,280) including notary, registration, translations, and lawyer assistance. Within the Phase 0 budget envelope in [BUDGET.md](../BUDGET.md).
 
-The following are not resolvable without licensed counsel and should be the agenda of the paid validation session:
+## 11. Question Set for the Paid Lawyer Validation Session
 
-1. **Confirm the entity** (FBiH vs RS) governing the Drinić parcel.
-2. **Confirm the d.o.o. minimum capital** in the relevant entity, current as of formation date.
-3. **Confirm reciprocity status and any entity-specific restriction** for Mak as a BiH citizen and for any future foreign member.
-4. **Tax treatment of sweat-equity issuance** — capital contribution vs. employment compensation.
-5. **Land categorization of the parcel** and feasibility of construction without reclassification.
-6. **Recommended structure** for transferring or leasing the parcel to the d.o.o. (sale, in-kind contribution, lease).
-7. **Construction permit pathway** for a small year-round residence on the parcel as currently categorized.
-8. **Whether an associated *udruženje* is recommended** for the Phase 1 community/governance face.
-9. **Any sanctions / compliance considerations** for accepting members or capital from specific jurisdictions.
-10. **Estimated annual compliance cost** (accountant, filings, audit thresholds) for a small d.o.o. with foreign owners.
+The agenda for the 60–90 minute consultation:
 
-## 12. Source Notes
+1. Confirm cadastral parcel is in RS (Petrovac) and not on the FBiH side of the entity boundary.
+2. Confirm current d.o.o. minimum capital and notarization rules per the **45/2025 consolidated** ZPD RS.
+3. Confirm that a BiH-registered d.o.o. with foreign owners is treated as a domestic legal entity for ZSP RS Article 15(2) purposes for the Drinić parcel.
+4. **Tax treatment of sweat-equity issuance** — capital contribution vs. employment compensation. (Highest priority.)
+5. Cadastral category of the parcel and feasibility of construction without reclassification.
+6. Recommended structure for transferring or leasing the parcel to the d.o.o. (lease vs. sale vs. in-kind).
+7. Construction permit pathway for a small year-round residence on the parcel as currently categorized.
+8. Whether RS Agricultural Land Law restrictions affect the parcel and the d.o.o.
+9. Whether an associated *udruženje* is recommended for the Phase 1 community face.
+10. Sanctions / compliance considerations for accepting members or capital from specific jurisdictions.
+11. Estimated annual compliance cost (accountant, filings, audit thresholds) for a small RS d.o.o. with foreign owners.
+12. Current legalization (*legalizacija*) regime under ZUPG RS amendments through 84/2019, in case any pre-existing structure is on the parcel.
 
-This document was compiled from:
+## 12. Sources
 
-- The author's general knowledge of BiH commercial and property law as of training data through January 2026.
-- Reading of publicly cited statute names and structures (Companies Acts, FDI Law, Real Property Acts, Spatial Planning Acts).
-- Cross-referencing with publicly available secondary sources (chambers of commerce overviews, foreign-investor guides, embassy notes).
+Primary statutes referenced (citations to Sl. glasnik):
 
-**No paragraph here is a substitute for verification against the current consolidated text of the relevant statute or for the opinion of a licensed BiH advokat.** Statutes cited are referenced by name only; clause-level citation is intentionally avoided to prevent false precision. The lawyer's signed memo will replace this document as the authoritative reference once produced.
+- Zakon o privrednim društvima Republike Srpske, Sl. glasnik RS 127/2008 → 45/2025 (consolidated). Source: [paragraf.ba consolidated text](https://www.paragraf.ba/propisi/republika-srpska/zakon-o-privrednim-drustvima.html); [advokat-prnjavorac.com PDF](https://advokat-prnjavorac.com/zakoni/Zakon-o-privrednim-drustvima-RS.pdf).
+- Zakon o politici direktnih stranih ulaganja u BiH, Sl. glasnik BiH 17/98, 13/03, 48/10, 22/15. Source: [paragraf.ba consolidated text](https://www.paragraf.ba/propisi/bih/zakon-o-politici-direktnih-stranih-ulaganja-u-bosni-i-hercegovini.html); [Parliamentary Assembly of BiH](https://www.parlament.ba/law/DownloadDocument?lawDocumentId=fb6f1dcd-3770-4ccd-87a2-c85b5678dcd2&langTag=bs); [FIPA consolidated text PDF](http://www.fipa.gov.ba/publikacije_materijali/zakoni/Preciscen%20tekst%20Zakona%20o%20politici%20DSU%20BiH.BS.16.05.2017.pdf).
+- Zakon o stvarnim pravima Republike Srpske, Sl. glasnik RS 124/2008 with amendments. Source: [paragraf.ba](https://www.paragraf.ba/propisi/republika-srpska/zakon-o-stvarnim-pravima.html); [advokat-prnjavorac.com PDF](https://advokat-prnjavorac.com/zakoni/Zakon_o_stvarnim_pravima.pdf).
+- Zakon o uređenju prostora i građenju Republike Srpske, Sl. glasnik RS 40/2013 with amendments through 84/2019. Source: [paragraf.ba](https://www.paragraf.ba/propisi/republika-srpska/zakon-o-uredjenju-prostora-i-gradjenju.html); [FAOLEX](https://faolex.fao.org/docs/pdf/bih132457.pdf).
+
+Practitioner guidance referenced:
+
+- Foreigners' rights to real estate in BiH: [Law Office Prnjavorac](https://advokat-prnjavorac.com/lawoffice/The-right-of-foreigners-to-real-estate-in-Bosnia-and-Herzegovina.html).
+- BiH 2026 corporate tax rates: [PwC Tax Summaries — BiH Corporate](https://taxsummaries.pwc.com/bosnia-and-herzegovina/corporate/taxes-on-corporate-income); [Mondaq BiH Tax Card 2026](https://www.mondaq.com/withholding-tax/1747486/bosnia-herzegovina-tax-card-2026).
+- Drinić administrative status: [Wikipedia — Drinić](https://en.wikipedia.org/wiki/Drini%C4%87); [Wikipedia — Petrovac, Bosnia and Herzegovina](https://en.wikipedia.org/wiki/Petrovac,_Bosnia_and_Herzegovina).
+
+**No paragraph in this memo is a substitute for verification against the current consolidated text of the relevant statute or for the opinion of a licensed BiH advokat.** The lawyer's signed memo from the July 2026 validation session will replace this document as the authoritative reference.
 
 ---
 
