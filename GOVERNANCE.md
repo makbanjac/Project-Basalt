@@ -142,7 +142,23 @@ This document, the Manifesto, and the Economics document are amended by consent 
 - **Supermajority floor for Economics changes:** Amendments to share allocation, exit clause, or sweat-equity rates require consent **and** affirmative concurrence from members holding at least 75% of outstanding shares. This protects minority capital.
 - **Versioning:** All changes are tracked in git. The current version is whatever is on `main`.
 
-## 8. Public Log
+## 8. Transitional Provisions (Cohort < 4 Full Members)
+
+While the cohort consists of fewer than four (4) Full Members, the General Circle may not, by consent of its founding members alone, decide any of the following ("**Restricted Decisions**"):
+
+(a) Issuance of new shares to any party (including founding members) above the issuance schedule already ratified in [ECONOMICS.md](ECONOMICS.md).
+(b) Adjustment of the sweat-equity rate or the skill multiplier.
+(c) Adjustment of the per-member share cap (currently 25%, [ECONOMICS.md](ECONOMICS.md) §3.4).
+(d) Exit valuations for any member.
+(e) Admission of capital-only members under [VETTING.md](VETTING.md) §5.3.
+(f) Encumbrance of LLC assets (debt secured against land, equipment, or future revenue) above €1,000.
+(g) Any amendment to [ECONOMICS.md](ECONOMICS.md), [VETTING.md](VETTING.md), or this section.
+
+Restricted Decisions are deferred until the cohort reaches four Full Members, at which point they may be made by the standard consent process. Genuine emergencies that fall under §6 (Override Protocol) are not Restricted Decisions and may proceed within the bounded spend authority defined there.
+
+This provision exists because two founding members — even acting in good faith — cannot constitute a meaningful consent process for decisions that bind future members. It sunsets automatically when the four-member threshold is reached, and is then archived in the public log for historical reference. Removal of this section before the threshold is reached requires affirmative consent of the General Circle *and* unanimous written agreement of the founding members, with rationale logged.
+
+## 9. Public Log
 
 Every Circle maintains a public log in this repository (`/log/<circle>/<yyyy-mm>.md`) recording:
 - Date and attendees.
