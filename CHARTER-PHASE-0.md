@@ -9,7 +9,7 @@ This charter is itself a Phase 0 deliverable. Failure to meet a milestone does n
 | Member | Primary Circle | Secondary | Notes |
 |---|---|---|---|
 | Mak Banjac | Community (Lead) | Finance & Legal (joint steward) | Authored the OS. Co-owns the Drinić plot with brother. Carries vision, recruitment, external pitching, and the agency-revenue arc. |
-| (Co-founder, brother) | Infrastructure (Lead) | Finance & Legal (joint steward) | Co-owns the Drinić plot. Site logistics, construction, equipment. |
+| Miron Banjac | Infrastructure (Lead) | Finance & Legal (joint steward) | Co-owns the Drinić plot. Site logistics, construction, equipment. |
 
 Both founders sit in the General Circle.
 

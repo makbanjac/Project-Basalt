@@ -46,7 +46,7 @@ Verified provisions:
 
 **Implications for Project Basalt:**
 
-- A founder pair (Mak + brother) can establish a two-member d.o.o. with as little as 2 KM of statutory capital. Realistic working capital deposits (e.g., 1,000–2,000 KM) sit well below the 5,000 KM threshold that triggers the half-now / half-within-two-years rule.
+- A founder pair (Mak + Miron) can establish a two-member d.o.o. with as little as 2 KM of statutory capital. Realistic working capital deposits (e.g., 1,000–2,000 KM) sit well below the 5,000 KM threshold that triggers the half-now / half-within-two-years rule.
 - Notarization of the founding act is required (signature verification suffices for a sole founder at minimum capital, but a two-founder act requires standard notarization).
 - The act binds the cap table from [ECONOMICS.md](../ECONOMICS.md). Get this right at formation; amendments later are slower and notarized.
 
