@@ -226,9 +226,11 @@ State-level AML/CFT framework harmonized with EU directives. Beneficial owners h
 
 `[VERIFY current state-level Law on the Prevention of Money Laundering and Financing of Terrorist Activities, including reporting thresholds.]`
 
-## 10. Practical Sequencing for Phase 0 Formation
+## 10. Practical Sequencing for Formation
 
-Recommended order, subject to lawyer confirmation:
+**Timing note:** Formation is **trigger-based, not calendar-based.** While the cohort is two co-owning founders in mutual agreement, the d.o.o. is overhead without offsetting benefit. Formation fires on the first of: a non-founder Trial Member contributing capital; first non-trivial entity-owned asset; first contract requiring entity signature; treasury > €5,000. Until then, the project operates on a personal-sub-account treasury with public ledger and a markdown cap table that crystallizes into shares retroactive to formation. See [CHARTER-PHASE-0.md](../CHARTER-PHASE-0.md) §"Formation Trigger".
+
+Recommended order once a trigger fires, subject to lawyer confirmation:
 
 1. **Confirm cadastral parcel sits in RS** — site visit + cadastral extract.
 2. **Define seat** of the d.o.o. — Banja Luka (administratively easier) or Petrovac (RS) (closer to operations).

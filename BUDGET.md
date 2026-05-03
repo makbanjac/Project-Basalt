@@ -30,16 +30,17 @@ This frames every number below.
 |---|---|---|
 | Domain + GitHub Pro (1 yr) | €60 | Optional but cheap. |
 | Discord Nitro / community tooling | €0–100 | Free tier is sufficient; defer. |
-| Notary / d.o.o. registration in BiH | €500–1,200 | Includes founding capital deposit (~€500 minimum statutory capital for d.o.o.). |
-| Initial legal consultation (BiH lawyer) | €200–500 | One paid 1–2 hour session on foreign-ownership pathway. |
-| Accountant retainer (BiH) | €50–80/month | Required once d.o.o. is registered. ~€500/year. |
-| Bank account opening | €0–100 | Local business bank. |
+| Initial legal consultation (BiH lawyer) | €200–500 | One paid 1–2 hour session on foreign-ownership pathway and founding-act drafting. |
+| Founding-act draft preparation (lawyer) | €200–400 | Drafted but held until formation trigger fires. See [CHARTER-PHASE-0.md](CHARTER-PHASE-0.md) §"Formation Trigger". |
+| Personal-sub-account treasury setup | €0 | No business bank account or d.o.o. required during Phase 0. |
 | Site dossier — travel to Drinić | €200–400 | One trip for a founder; bus/fuel + 2 nights. |
 | Cadastral records, surveys | €100–300 | Public records + any informal surveying. |
 | Reserve / contingency | €500 | |
-| **Phase 0 total** | **€2,100–3,700** | |
+| **Phase 0 total** | **€1,260–2,260** | |
 
-**Funding source:** Founding member contributions, €30–60/month each from 5 members for 6–8 months. **Phase 0 is fundable from the cohort's own savings without external capital.** This is the only phase for which that is true.
+**Why no d.o.o. registration cost in Phase 0:** The d.o.o. is formed on a trigger, not a date. While the cohort is two co-owning brothers in agreement, the entity is overhead with no offsetting benefit. Formation costs (~€500–1,200 notary + registration; ~€500–600/year accountant retainer once registered) shift to the Phase 0 → Phase 1 transition or earlier if a trigger fires (first non-founder Trial Member contributing capital; first non-trivial entity-owned asset; first contract; treasury > €5,000). Charter [CHARTER-PHASE-0.md](CHARTER-PHASE-0.md) defines the triggers.
+
+**Funding source:** Founding member contributions, €30–60/month each from 5 members for 6–8 months — *or, more realistically given the actual cohort size,* €100–200/month from the two founders for 6–8 months. **Phase 0 is fundable from the cohort's own savings without external capital.** This is the only phase for which that is true.
 
 ## 3. Phase 1 — The Pilot
 
@@ -139,7 +140,7 @@ Not budgeted in this version. Phase 3 cost modeling is a Phase 2 deliverable, be
 
 | Phase | Cost range | Cohort pooling capacity | Self-fundable? |
 |---|---|---|---|
-| Phase 0 | €2,100–3,700 | High | **Yes** |
+| Phase 0 | €1,260–2,260 | High | **Yes** |
 | Phase 1 | €10,700–15,600 | Medium (12-month runway) | **Yes, with discipline** |
 | Phase 2 | €175,000–400,000 | Insufficient alone | **No** — requires growth + revenue + capital members |
 | Phase 3 | TBD | TBD | TBD |

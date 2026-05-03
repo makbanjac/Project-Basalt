@@ -43,25 +43,42 @@ The two-founder cohort triggers the cohort-size transitional provisions in [GOVE
 
 ### August 2026
 
-- ☐ **d.o.o. formation initiated.** Notarized founding act prepared, statutory capital deposited, registration submitted. *Owner: Finance & Legal Circle. Verification: notary receipt + filing confirmation.*
+- ☐ **d.o.o. founding act drafted (not yet filed).** Lawyer-reviewed draft based on the cap table in [ECONOMICS.md](ECONOMICS.md), held ready to file when a formation trigger fires (see "Formation Trigger" below). *Owner: Finance & Legal Circle. Verification: `legal/doo-founding-act-draft.md`.*
 - ☐ **Phase 1 budget refined.** [BUDGET.md](BUDGET.md) updated with quoted prices specific to Drinić sourcing (vendors, lease comparables, fuel costs). *Owner: Finance & Legal Circle.*
 - ☐ **Trial Member pipeline at 2–3.** *Owner: Community Circle.*
 
 ### September 2026
 
-- ☐ **d.o.o. registered.** Court Registry / APIF confirmation received. Bank account converted to LLC account. *Owner: Finance & Legal Circle. Verification: registration extract committed as `legal/doo-registration.pdf`.*
 - ☐ **Phase 1 logistics plan committed.** Lease arrangement, on-site rotation schedule, equipment procurement plan, first-on-site dates. *Owner: Infrastructure Circle. Verification: `phase-1/logistics-plan.md`.*
 - ☐ **Trial Member cohort at 3–5 active.** *Owner: Community Circle.*
 
 ### October 2026
 
-- ☐ **First equipment procured.** Starlink, generator, basic tool kit ordered or purchased. *Owner: Infrastructure Circle. Verification: `ledger/equipment.md` with serials.*
-- ☐ **Treasury target met.** ≥ €4,000 in pooled treasury (covers Phase 0 closing costs and Phase 1 down payment on equipment). *Owner: Finance & Legal Circle.*
+- ☐ **Treasury target met.** ≥ €2,500 in pooled treasury, held in transparent personal sub-account with public ledger. *Owner: Finance & Legal Circle.*
 - ☐ **Phase 1 readiness review.** General Circle assesses gating criteria from [GOVERNANCE.md](GOVERNANCE.md) §2 / [BUDGET.md](BUDGET.md). *Owner: General Circle.*
 
 ### November 2026
 
 - ☐ **Phase 0 → Phase 1 transition decision.** Either: consent to enter Phase 1 with first on-site rotation in Q1 2027, or: written re-baseline with revised milestones. *Owner: General Circle. Verification: `log/general/2026-11.md`.*
+
+## Formation Trigger (when the d.o.o. actually forms)
+
+The d.o.o. exists to protect non-founders. While the cohort is two co-owning brothers in mutual agreement, formation is overhead with no offsetting benefit. The d.o.o. is therefore filed not on a calendar date but when **any** of the following first occurs:
+
+1. A **non-founder Trial Member is admitted** and is about to make a capital contribution, or accumulates sweat hours that need to crystallize into enforceable shares.
+2. The community is about to acquire a **non-trivial entity-owned asset** — vehicle, generator, equipment with significant value or insurance/liability implications.
+3. The entity needs to **sign a contract** (Alpha Site lease to the d.o.o., supplier agreement, agency-revenue client contract) that should not sit in either brother's personal name.
+4. **Treasury exceeds €5,000** — at which point informal commingling becomes awkward.
+
+**Pre-formation operating substrate:**
+
+- Personal sub-account labeled "Project Basalt — Treasury (pre-formation)," with public markdown ledger.
+- Markdown cap table tracking *planned* shares for both founders. Shares issue formally upon d.o.o. registration with retroactive effect to logged contributions.
+- Land remains in personal joint ownership of the two brothers. No lease to the d.o.o. until the d.o.o. exists.
+- Trial Members admitted during this window contribute **sweat only** (logged in the ledger). Cash contributions are deferred and crystallized at formation.
+- Sweat-equity logging continues per [ECONOMICS.md](ECONOMICS.md) §3; conversion to shares is retroactive to the formation date for all logged hours.
+
+**Costs avoided by deferring formation:** ~€500–1,200 notary/registration; ~€600/year accountant retainer that does not begin until the entity exists; the time and bandwidth of dealing with a registry that doesn't yet need to exist. **Cost of waiting:** none material — the founding act is drafted and ready to file the day the trigger fires; filing-to-registered timeline in RS is 5–15 working days.
 
 ## Failure Modes & Re-baselining
 
