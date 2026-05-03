@@ -8,12 +8,16 @@ This charter is itself a Phase 0 deliverable. Failure to meet a milestone does n
 
 | Member | Primary Circle | Secondary | Notes |
 |---|---|---|---|
-| Mak Banjac | Finance & Legal (Lead) | Community | Authored the OS, holds the Drinić plot. |
-| (Co-founder, brother) | Infrastructure (Lead) | Community | Site logistics, construction, equipment. |
+| Mak Banjac | Community (Lead) | Finance & Legal (joint steward) | Authored the OS. Co-owns the Drinić plot with brother. Carries vision, recruitment, external pitching, and the agency-revenue arc. |
+| (Co-founder, brother) | Infrastructure (Lead) | Finance & Legal (joint steward) | Co-owns the Drinić plot. Site logistics, construction, equipment. |
 
-Both founders sit in the General Circle. The Community Circle is jointly held until a third member arrives.
+Both founders sit in the General Circle.
 
-The two-founder cohort triggers the cohort-size transitional provisions in [GOVERNANCE.md](GOVERNANCE.md) §9 — economic-class decisions are deferred until the cohort reaches four Full Members.
+**Finance & Legal Circle is under-staffed by design** in the two-founder configuration. Neither founder is a finance/legal natural, so the Circle is jointly stewarded — sufficient for Phase 0 routine work (treasury logging, basic accounting, working with the engaged lawyer at the validation session) but not sufficient long-term. **Recruiting a third Full Member with finance, legal, or accounting competence is an explicit Phase 0 priority** and is reflected in the skills-gap profile published to applicants.
+
+The Alpha Site at Drinić is held in joint personal ownership by the two founders. Any contribution, lease, or sale of the parcel to the Community LLC must originate from both co-owners and be reflected proportionally in the cap table or lease-income split. This is on the lawyer agenda (see [legal/bih-formation-research.md](legal/bih-formation-research.md) §11).
+
+The two-founder cohort triggers the cohort-size transitional provisions in [GOVERNANCE.md](GOVERNANCE.md) §8 — economic-class decisions are deferred until the cohort reaches four Full Members.
 
 ## Milestones
 

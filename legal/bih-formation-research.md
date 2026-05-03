@@ -240,20 +240,20 @@ Recommended order, subject to lawyer confirmation:
 8. **Open the operating bank account.**
 9. **Register for tax** (Poreska uprava RS) — JIB / MBS numbers.
 10. **Pull cadastral and land-book extracts** for the Drinić parcel.
-11. **Plan land contribution** — initially **lease** the parcel from Mak personally to the d.o.o. (cleanest for Phase 0–1; minimal tax events). Sale or in-kind contribution to the d.o.o. is a Phase 2 decision once construction value justifies it and the lawyer can structure the transfer cleanly.
+11. **Plan land contribution** — the Drinić parcel is held in **joint personal ownership by the two founding brothers**. Any lease, sale, or in-kind contribution to the d.o.o. must originate from both co-owners and be reflected proportionally on the d.o.o. side. Initially **lease** the parcel from the two co-owners to the d.o.o. (cleanest for Phase 0–1; minimal tax events; lease income split per ownership share between the brothers personally). Sale or in-kind contribution to the d.o.o. is a Phase 2 decision once construction value justifies it and the lawyer can structure the transfer cleanly. **Order pulling the cadastral and land-book extracts to confirm the registered ownership shares (typically 1/2 each, but verify) before drafting any lease.**
 
 **Realistic formation cost (RS):** 1,000–2,500 KM (≈ €510–1,280) including notary, registration, translations, and lawyer assistance. Within the Phase 0 budget envelope in [BUDGET.md](../BUDGET.md).
 
 ## 11. Question Set for the Paid Lawyer Validation Session
 
-The agenda for the 60–90 minute consultation:
+The agenda for the 60–90 minute consultation. **Item 6 is materially expanded by the joint-ownership status of the parcel; flag this to the lawyer in the briefing email.**
 
 1. Confirm cadastral parcel is in RS (Petrovac) and not on the FBiH side of the entity boundary.
 2. Confirm current d.o.o. minimum capital and notarization rules per the **45/2025 consolidated** ZPD RS.
 3. Confirm that a BiH-registered d.o.o. with foreign owners is treated as a domestic legal entity for ZSP RS Article 15(2) purposes for the Drinić parcel.
 4. **Tax treatment of sweat-equity issuance** — capital contribution vs. employment compensation. (Highest priority.)
 5. Cadastral category of the parcel and feasibility of construction without reclassification.
-6. Recommended structure for transferring or leasing the parcel to the d.o.o. (lease vs. sale vs. in-kind).
+6. Recommended structure for transferring or leasing the **jointly-owned** parcel to the d.o.o. (lease vs. sale vs. in-kind), including: required form of the co-owner consent; tax treatment of lease income at the personal level for each brother; treatment if one brother later wants to convert his share to a capital contribution and the other does not; effect on the cap table.
 7. Construction permit pathway for a small year-round residence on the parcel as currently categorized.
 8. Whether RS Agricultural Land Law restrictions affect the parcel and the d.o.o.
 9. Whether an associated *udruženje* is recommended for the Phase 1 community face.
